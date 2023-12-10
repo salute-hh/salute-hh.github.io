@@ -111,10 +111,11 @@ author:
   tumblr           :
   twitter          : #"https://github.com/salute-hh"
   vine             :
-  weibo            : https://blog.csdn.net/Emb_Salute
+  weibo            : #https://blog.csdn.net/Emb_Salute
   xing             :
   youtube          :
   wikipedia        :
+  csdn             : https://blog.csdn.net/Emb_Salute
 
 
 # Reading Files
